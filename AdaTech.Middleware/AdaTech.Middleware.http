@@ -1,0 +1,6 @@
+@AdaTech.Middleware_HostAddress = http://localhost:5142
+
+GET {{AdaTech.Middleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
